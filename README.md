@@ -1,4 +1,6 @@
 # TV Show Ratings Analysis
+![TV Show Ratings Analysis](TVSHow.png)
+
 ## Project Overview
 This project analyzes data from the entertainment industry, focusing specifically on TV shows during the "Golden Age" of television, which began in 1999 with the release of The Sopranos and is still ongoing. The primary goal of the analysis is to investigate the relationship between the number of votes a TV show receives on IMDb and its rating. The hypothesis is that highly-rated shows released during the "Golden Age" also have the most votes.
 
