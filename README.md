@@ -7,9 +7,9 @@ This project analyzes data from the entertainment industry, focusing specificall
 2. Data
 3. Project Structure
 4. Methodology
-  1. Data Overview
-  2. Data Preprocessing
-  3. Data Analysis
+- Data Overview
+- Data Preprocessing
+- Data Analysis
 5. Conclusion
 6. Future Work
 
